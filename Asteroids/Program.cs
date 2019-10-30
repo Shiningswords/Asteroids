@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*
+ Гудочкин Константин
+ */
+using System;
 using System.Windows.Forms;
 
 namespace Asteroids
