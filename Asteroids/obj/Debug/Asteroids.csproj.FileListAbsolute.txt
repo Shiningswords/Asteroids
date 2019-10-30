@@ -1,0 +1,8 @@
+D:\ACHIEVMENTS AND KNOWLEDGE\EDUCATION\Coding\GEEKBRAINS\8 C# lvl2\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+D:\ACHIEVMENTS AND KNOWLEDGE\EDUCATION\Coding\GEEKBRAINS\8 C# lvl2\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+D:\ACHIEVMENTS AND KNOWLEDGE\EDUCATION\Coding\GEEKBRAINS\8 C# lvl2\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+D:\ACHIEVMENTS AND KNOWLEDGE\EDUCATION\Coding\GEEKBRAINS\8 C# lvl2\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+D:\ACHIEVMENTS AND KNOWLEDGE\EDUCATION\Coding\GEEKBRAINS\8 C# lvl2\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+D:\ACHIEVMENTS AND KNOWLEDGE\EDUCATION\Coding\GEEKBRAINS\8 C# lvl2\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
+D:\ACHIEVMENTS AND KNOWLEDGE\EDUCATION\Coding\GEEKBRAINS\8 C# lvl2\Asteroids\Asteroids\bin\Debug\Images\Meteorite.png
+D:\ACHIEVMENTS AND KNOWLEDGE\EDUCATION\Coding\GEEKBRAINS\8 C# lvl2\Asteroids\Asteroids\bin\Debug\Images\moon.png
